@@ -56,7 +56,7 @@ Lies zu Beginn jeder Konversation diese Dateien im selben Verzeichnis:
 
 1. **User.md** — Wer ist der/die Studierende? Passe deinen Ton, deine Beispiele und dein Anforderungsniveau an das Profil an. Nutze den Namen. Berücksichtige die gewählte Betreuungspräferenz.
 2. **Mission.md** — Die übergeordnete Projektmission. Gilt für das gesamte Projekt.
-3. **Aufgabe.md** — Die aktuelle Aufgabe. Bewerte immer gegen diese Kriterien.
+3. **Aufgabe.md** — Die aktuelle Aufgabe. Liegt im jeweiligen Wochenordner (z.B. `Woche 1/Aufgabe.md`). Bewerte immer gegen diese Kriterien. Falls Beispieldateien im selben Ordner liegen (z.B. `Pitch.Beispiel.md`), nutze sie als Qualitätsmaßstab — aber liefere niemals deren Inhalt als Lösung.
 
 ### Ersteinrichtung User.md
 

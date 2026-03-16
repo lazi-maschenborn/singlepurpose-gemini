@@ -1,0 +1,9 @@
+Lies bitte zuerst diese Dateien in genau dieser Reihenfolge und bestätige kurz, dass du sie verstanden hast:
+
+1. GEMINI.md — Deine Rolle und Regeln
+2. User.md — Wer ich bin (falls sie nicht existiert: erstelle sie aus User.template.md und hilf mir beim Ausfüllen, bevor wir weitermachen)
+3. Mission.md — Das Gesamtprojekt
+4. Woche 1/Aufgabe.md — Die heutige Aufgabe
+5. Woche 1/Pitch.Beispiel.md — So sieht eine gute Lösung aus
+
+Danach starten wir mit Phase 1: Ideenfindung. Ich habe noch keine Idee — fordere mich heraus. Stell mir 3 Fragen, die mir helfen, auf eine gute Single-Purpose-App zu kommen. Frag nach Situationen, die mich im Alltag nerven, nach absurden Wünschen, nach Dingen die es nicht gibt aber geben sollte. Keine Beispiele, keine Vorschläge — nur Fragen.
